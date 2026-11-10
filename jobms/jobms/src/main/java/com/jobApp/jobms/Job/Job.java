@@ -3,6 +3,7 @@ package com.jobApp.jobms.Job;
 
 import jakarta.persistence.*;
 
+// Job entity Class
 @Entity
 //@Table(name = "job_table")
 public class Job {
